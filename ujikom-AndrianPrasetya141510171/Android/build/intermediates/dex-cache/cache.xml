@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_9fb104bac10ac3e73171cf70be4100c24713cef8.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="209a36cdd8ca1238db0404bfed2c38a72152af60">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\instant-run_0f7fab5eb343bd70f68ce815669e02cdc10bd7b1.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.mcxiaoke.volley\library-aar\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.mcxiaoke.volley-library-aar-1.0.0_6b22a7ca225186fba195f0f4719a3f434b3dd4c1.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bdbe583cc24895ddd69804a2b985d0593cdf75fd">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_66795d07000a15d6f1f5ea633e6fbfeb7fefd7f0.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_22705a876cd712a0d6792e0ac2f49b34d08eeba4.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_2a4c99e6f9eb1fbfa7294e58d226260ec5845fd8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_d35d099733ca09dddd8bc4d85324bb9134cf7822.jar" />
+    </item>
+    <item
+        jar="C:\Users\Acer\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_55e35f25fd7cbf8dc1ff046afdf964f81e76f0c7.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_6ea49f758c00ee9b396401e8735246628e3ab3d9.jar" />
+    </item>
+    <item
+        jar="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="D:\Andrian\AndroidLogin\ujikom-2017\Android\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_66ce2715ca1edf4ae631749804e8003dad18042d.jar" />
+    </item>
+
+</items>
